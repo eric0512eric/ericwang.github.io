@@ -1,2 +1,1 @@
-# ericwang.github.io
- My Blog
+# Hello world
